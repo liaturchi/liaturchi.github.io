@@ -3,7 +3,7 @@ baseurl: "https://liaturchi.github.io/"
 # baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+# google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Lia Turchi"
@@ -14,9 +14,7 @@ header:
  subtitle: "by Lia Turchi"
 footer:
  name: "Hi, my name is Lia"
- bio: "I am a student at the Brera Academy of Fine Arts."
- bio: "Currently attending the School of Art and New Technologies."
- bio: "Based in Como, Lombardy, Italy."
+ bio: "I am a student at the Brera Academy of Fine Arts. Currently attending the School of Art and New Technologies. Based in Como, Lombardy, Italy."
 # github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/rampatra/photography\">fork this repo on github</a> ;)"
 # web_design: "AJ"
 
